@@ -1,0 +1,1 @@
+para los que tenéis dudas de cómo subir el proyecto en GIT, os dejo un enlace de stackoverflow como referencia: https://stackoverflow.com/questions/44415291/how-to-create-a-git-pull-request-on-a-public-github-repository tenéis que hacer un FORK del proyecto y abrir una Pull Request. Por favor los que lo leáis compartidlo con los compañeros. Un saludo!
