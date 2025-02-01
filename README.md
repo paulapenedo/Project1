@@ -28,11 +28,11 @@
 
 #### Main.ipynb
 
-    1. Importamos paquetes necesarios
+1. Importamos paquetes necesarios
 
-    2. Creamos carpeta data
+2. Creamos carpeta data
 
-    3. Llamamos funciones para descargar, mover y descomprimir excels
-        - Estas funciones están en `utils.py`
+3. Llamamos funciones para descargar, mover y descomprimir excels
+    - Estas funciones están en `utils.py`
 
     
